@@ -30,3 +30,9 @@ print(5/3)
 
 print(10 > 3)
 print(4 >= 7)
+
+print(3 == 3)
+print(4 == 2)
+
+print(1 != 3)
+print(not 2 == 3)
