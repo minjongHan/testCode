@@ -57,3 +57,6 @@ print(number)
 
 number %= 2
 print(number)
+
+
+#별도의 수정 사항 반영 진행합니다.
