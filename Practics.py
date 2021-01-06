@@ -7,6 +7,9 @@
 # print("우리집 ",name,"는 나이가 ",age,"살 입니다.") 
 # print(10 < 5)
 
+#git test 진행
+
+
 #애완동물을 소개해 주세요~
 animal = "강아지"
 name = "연탕이"
@@ -36,3 +39,22 @@ print(4 == 2)
 
 print(1 != 3)
 print(not 2 == 3)
+
+print(2+3*4)
+print((2+3) * 4)
+number = 2 + 3 * 4
+print(number)
+number = number + 2
+print(number)
+number += 2
+print(number)
+number *= 2
+print(number)
+number /= 2
+print(number)
+number -= 2
+print(number)
+
+number %= 2
+print(number)
+
