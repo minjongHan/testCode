@@ -1,8 +1,9 @@
 from random import *
-
+ids = [1,2,3,...,200]
 users = range(1,21)
-print(list(users))
+print(type(users))
 users = list(users)
+print(users)
 shuffle(users)
 print(users)
 winner = sample(users, 4)
