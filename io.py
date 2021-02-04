@@ -20,3 +20,4 @@ for num in range(1,21):
 answer = input("아무 값이나 입력하세요 : ") 
 print(type(answer))
 print("입력하신값은" + answer + "입니다.")
+#사용자에게 입력을 받을때는 항상 문자열로 선언이 된다.

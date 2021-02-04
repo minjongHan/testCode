@@ -8,6 +8,8 @@ for student in range(1, 11):
         break
     print("{0},  책을 읽어봐".format(student))
 
+
+#한줄 for 문
 #출석 번호 1 2 3 4, 앞에 100을 붙이기로 함 -> 101, 102, 103, 104.
 student = [1, 2, 3, 4, 5]
 print(student)
