@@ -1,10 +1,10 @@
 # print("python", "java", sep=" vs ")
-print("python", "java", sep=" , ", end ="?")
+print("python", "java", sep=" , ", end ="?") #end는 줄의 끝에 end의 값을 넣어라
 print("무엇이 더 재미있을까요?")
 
 import sys
-print("python", "java", file=sys.stdout)
-print("python", "java", file=sys.stderr)
+print("python", "java", file=sys.stdout) #표준 출력으로 표현
+print("python", "java", file=sys.stderr) #표준 에러로 표현
 
 #시험성적
 scores = {"수학":0, "영어":50, "코딩":100}
